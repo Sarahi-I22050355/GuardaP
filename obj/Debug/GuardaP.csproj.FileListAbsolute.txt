@@ -1,0 +1,8 @@
+C:\Users\Sarah\source\repos\GuardaP\bin\Debug\GuardaP.exe.config
+C:\Users\Sarah\source\repos\GuardaP\bin\Debug\GuardaP.exe
+C:\Users\Sarah\source\repos\GuardaP\bin\Debug\GuardaP.pdb
+C:\Users\Sarah\source\repos\GuardaP\obj\Debug\GuardaP.csproj.AssemblyReference.cache
+C:\Users\Sarah\source\repos\GuardaP\obj\Debug\GuardaP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sarah\source\repos\GuardaP\obj\Debug\GuardaP.csproj.CoreCompileInputs.cache
+C:\Users\Sarah\source\repos\GuardaP\obj\Debug\GuardaP.exe
+C:\Users\Sarah\source\repos\GuardaP\obj\Debug\GuardaP.pdb

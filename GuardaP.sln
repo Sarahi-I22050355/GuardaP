@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuardaP", "GuardaP.csproj", "{306195A8-7367-491E-923D-349CB59963C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{306195A8-7367-491E-923D-349CB59963C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{306195A8-7367-491E-923D-349CB59963C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{306195A8-7367-491E-923D-349CB59963C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{306195A8-7367-491E-923D-349CB59963C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF589387-D0B9-48E3-93C5-16B14C532324}
+	EndGlobalSection
+EndGlobal
